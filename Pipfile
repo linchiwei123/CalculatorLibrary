@@ -7,6 +7,9 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
+flake8 = "*"
+pytest = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.5"
