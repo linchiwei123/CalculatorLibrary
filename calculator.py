@@ -13,4 +13,3 @@ def subtract(first_term, second_term):
 
 def multiply(n1, n2):
     return n1 * n2
-
